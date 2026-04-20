@@ -1,0 +1,17 @@
+[
+  {
+    "lambda": 0.01,
+    "test_acc": 0.5642,
+    "sparsity": 0.0171
+  },
+  {
+    "lambda": 0.05,
+    "test_acc": 0.5545,
+    "sparsity": 0.0187
+  },
+  {
+    "lambda": 0.1,
+    "test_acc": 0.561,
+    "sparsity": 0.0639
+  }
+]
